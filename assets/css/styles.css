@@ -14,15 +14,12 @@ a {
 	width:100%;
 }
 
-
-
 /* NAVBAR */
 #nav {
 	left: 0%;
 	right: 0%;
 	background-color: white;
 	position: fixed;
-	top: -70px;
 	display: block;
 	transition: top 0.4s;
 	box-shadow: 2px 2px 5px #aaaaaa;
