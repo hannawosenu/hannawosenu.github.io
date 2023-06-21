@@ -1,12 +1,16 @@
 .gr_grid_container {
     /* customize grid container div here. eg: width: 500px; */
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
 }
 
 .gr_grid_book_container {
 /* customize book cover container div here */
-float: left;
-width: 98px;
-height: 160px;
-padding: 0px 0px;
-overflow: hidden;
+    float: left;
+    width: 98px;
+    height: 160px;
+    padding: 0px 0px;
+    overflow: hidden;
 }
