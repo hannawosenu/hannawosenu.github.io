@@ -1,3 +1,7 @@
+.content {
+	width:100%;
+}
+
 .gr_grid_container {
     /* customize grid container div here. eg: width: 500px; */
     margin: auto;
@@ -13,3 +17,4 @@
     padding: 0px 0px;
     overflow: hidden;
 }
+
