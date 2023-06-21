@@ -1,9 +1,9 @@
 .gr_grid_container {
     /* customize grid container div here. eg: width: 500px; */
-    margin: auto;
+    /* margin: auto;
     width: 50%;
-    border: 3px solid green;
-    padding: 10px;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px; */
 }
 
 .gr_grid_book_container {
