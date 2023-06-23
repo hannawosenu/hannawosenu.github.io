@@ -1,5 +1,6 @@
 .gr_grid_container {
     align-items: center;
+    width: 700px;
     /* customize grid container div here. eg: width: 500px; */
   }
 

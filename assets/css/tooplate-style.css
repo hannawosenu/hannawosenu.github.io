@@ -213,7 +213,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-  background: url('../images/home-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/home-bg.png') 50% 0 repeat-y fixed;
   background-size: cover;
   background-position: center center;
   display: -webkit-box;
@@ -224,7 +224,7 @@ a:hover, a:active, a:focus {
   -webkit-align-items: center;
   -ms-flex-align: center;
    align-items: center;
-  height: 100vh;
+  height: 70vh;
   position: relative;
   text-align: right;
 }
@@ -389,7 +389,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-  background: #7682cc;
+  background: #a51c30;
   text-align: center;
   padding: 120px 0;
 }
