@@ -1,10 +1,12 @@
 .gr_grid_container {
     align-items: center;
     width: 700px;
+    display: flex;
+    flex-wrap: wrap;
     /* customize grid container div here. eg: width: 500px; */
-  }
+}
 
-  .gr_grid_book_container {
+.gr_grid_book_container {
     /* customize book cover container div here */
     float: left;
     width: 98px;
@@ -12,4 +14,12 @@
     padding: 0px 0px;
     overflow: hidden;
     align-items: center;
-  }
+}
+
+.position {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    align-items: center; 
+    padding: 10px;
+}
